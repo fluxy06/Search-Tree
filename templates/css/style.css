@@ -1,0 +1,161 @@
+.head {
+    width: 1160px;
+    height: 93px;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: 140px;
+    margin-top: 29px;
+    margin-right: 140px;
+    background: rgba(255, 255, 255, 0.7);
+    mix-blend-mode: normal;
+    border-radius: 20px;
+    display: flex;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    margin-left: 46px;
+    margin-top: 5px;
+    font-family: 'Open sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 79.5%;
+    /* or 25px */
+
+
+    color: #252525;
+}
+.img {
+    mix-blend-mode: darken;
+    padding-left: 5px;
+    padding-right: 31px;
+}
+
+.search-head {
+    display: flex;
+
+}
+
+.search-input {
+    background: rgba(255, 255, 255, 0.37);
+    border: 1px solid #56B570;
+    border-radius: 10px;
+    width: 626.88px;
+    height: 47.03px;
+    align-items: center;
+    margin-top: 29.2px;
+    margin-bottom: 16.77px;
+}
+
+.search-img{
+    margin-top: 30px;
+    margin-bottom: 23px;
+    align-items: center;
+    background-color: white;
+    border-style: none;
+    border: none;
+    margin-left: 5px;
+}
+.search-img button{
+    border: none;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+.buttons {
+    display: flex;
+    padding-left: 5px;
+    padding-top: 23px;
+    padding-bottom: 17.66px;
+}
+
+.f:hover {
+    mix-blend-mode: darken;
+    border: solid black 1px;
+}
+.s:hover {
+    mix-blend-mode: darken;
+    border: solid black 1px;
+}
+.t:hover {
+    mix-blend-mode: darken;
+    border: solid black 1px;
+}
+
+.search-img button:hover {
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+.box-vip {
+    margin-top: 19px;
+}
+
+.main-img {
+    pointer-events: none;
+    user-select: none;
+    -moz-user-select: none;
+}
+
+.box-input {
+    display: flex;
+    align-items: center;
+}
+.box-1 {
+    width: 232.56px;
+    height: 185.35px;
+    position: relative;
+    right: 5px;
+    top: -240px;
+    background-color: black;
+    margin-left: 18px;
+    margin-top: 10px;
+    border: 1px solid #000000;
+    border-radius: 15px;
+}
+.box-2 {
+    width: 232.56px;
+    height: 185.35px;
+    background-color: black;
+    position: relative;
+    top: -240px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 1px solid #000000;
+    border-radius: 15px;
+}
+.box-3 {
+    width: 232.56px;
+    height: 185.35px;
+    background-color: black;
+    position: relative;
+    top: -240px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 1px solid #000000;
+    border-radius: 15px;
+}
+
+.box-4 {
+    width: 232.56px;
+    height: 185.35px;
+    background-color: black;
+    position: relative;
+    top: -240px;
+    margin-left: 10px;
+    margin-right: 18px;
+    margin-top: 10px;
+    border: 1px solid #000000;
+    border-radius: 15px;
+}
